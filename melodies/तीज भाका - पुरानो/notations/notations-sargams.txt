@@ -1,0 +1,114 @@
+# Teej Melody
+
+# Tempo: 321 bpm
+# Time Signature: 3/4 Beats
+# Scale: F
+# Peace: Khemta Taal
+
+# Credits
+# These notations are provided by the tutor/author in a specific writing.
+# Melody Author: JK Bista (https://www.youtube.com/c/JkBista/videos)
+# Digitization: Bimal Poudel (@anytizer)
+
+# introlude - first part music
+
+ga dha pa  | sa* dha pa  | re ga pa | dha pa ga
+sa re  ga  | pa ga sa    | re -  -  | - - -
+ga -   re  | pa ga re    | pa - -   | - - -
+
+ga dha pa  | sa* dha pa  | re ga pa | dha pa ga
+sa re ga   | ga re,sa re | sa - -   | - - -
+
+#//
+
+# second part music:
+ga dha pa  | sa* dha pa  | sa* - -  | - - -
+re ga pa   | dha pa ga   | pa - -   | - - -
+
+# Repeatition of second part music
+
+ga dha pa  | sa* dha pa  | sa* - -  | - - -
+re ga pa   | dha pa ga   | pa - -   | - - -
+
+pa dha ga  | ga pa ga    | sa ga re | re sa dha.
+re -   -   | -  -  -
+pa dha ga  | ga pa ga    | sa ga re | re sa dha.
+re -   -   | -  -  -
+
+#//
+
+# song
+
+# core song part from: https://www.youtube.com/watch?v=b1F9OJs_3fE
+re - re | ga ga pa   | ga - ga   | re re sa
+sa - re | sa sa dha. | sa re ga  |  -   -   -
+re - re | ga ga pa   | ga - ga   | re re sa
+sa - re | sa sa dha. | sa re ga  |  -   -   -
+
+re - re | ga ga pa   | ga - ga   | re re sa
+sa - re | sa -  sa   | sa  -   - | ga - re
+re - re | ga ga pa   | ga - ga   | re re sa
+sa - re | sa sa -    | sa  -   - |  -   -   -
+
+# repeatition x 4
+
+re - re | ga ga pa   | ga - ga   | re re sa
+sa - re | sa sa dha. | sa re ga  | -  -  -
+re - re | ga ga pa   | ga - ga   | re re sa
+sa - re | sa sa dha. | sa re ga  | -  -  -
+
+re - re | ga ga pa   | ga - ga   | re re sa
+sa - re | sa -  sa   | sa -  -   | ga - re
+re - re | ga ga pa   | ga - ga   | re re sa
+sa - re | sa sa -    | sa -  -   | -  -  -
+
+#// 
+
+# second part music:
+
+ga dha pa  | sa* dha pa  | sa* - -  | - - -
+re ga pa   | dha pa ga   | pa - -   | - - -
+
+# Repeatition of second part music
+
+ga dha pa  | sa* dha pa  | sa* - -  | - - -
+re ga pa   | dha pa ga   | pa - -   | - - -
+
+pa dha ga  | ga pa ga    | sa ga re | re sa dha.
+re -   -   | -  -  -
+pa dha ga  | ga pa ga    | sa ga re | re sa dha.
+re -   -   | -  -  -     | x x x    | x x x
+
+#// 
+
+# antaraa
+
+re - re | ga ga pa   | ga - ga   | re re sa
+sa - re | sa sa dha. | sa re ga  | -  -  -
+re - re | ga ga pa   | ga - ga   | re re sa
+sa - re | sa sa dha. | sa re ga  | -  -  -
+
+re - re | ga ga pa   | ga - ga   | re re sa
+sa - re | sa -  sa   | sa  -   - | ga -  re
+re - re | ga ga pa   | ga - ga   | re re sa
+sa - re | sa sa -    | sa  -   - | -  -  -
+
+re - re | ga ga pa   | ga - ga   | re re sa
+sa - re | sa sa dha. | sa re ga  | -  -   -
+re - re | ga ga pa   | ga - ga   | re re sa
+sa - re | sa sa dha. | sa re ga  | -  -  -
+
+re - re | ga ga pa   | ga - ga   | re re sa
+sa - re | sa -  sa   | sa  - -   | ga -  re
+re - re | ga ga pa   | ga - ga   | re re sa
+sa - re | sa sa -    | sa - -    | -  -  -
+
+#// 
+
+# outro
+
+dha. - -   | -  - -  | - - -  | - - -
+dha. - pa. | re - -  | - - -  | - - -
+dha. - dha.| sa - -  | - - -  | - - -
+dha. - pa. | re - -  | - - -  | - - -
+dha. - dha.| sa - -  | - - -  | - - -
