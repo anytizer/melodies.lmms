@@ -3,9 +3,10 @@ Melodies created in LMMS software
 
 ## Project files structure
 
-* lyrics/*.txt
-* output/*.ogg
-* project/*.mmpz
+* lyrics/*.txt - lyrics file
+* notations/*.txt - sargam notes
+* output/*.ogg - raw audio output
+* project/*.mmpz - actual DAW file
 
 ## Licensing
 
