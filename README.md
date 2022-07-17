@@ -22,3 +22,6 @@ You can then edit each melodies.
 
 # Did you improve?
 Let me know back if you improved those melodies.
+
+# Audio (*.ogg) Samples
+Completed output is available at **melodies/PROJECT/output/*.ogg**
