@@ -8,6 +8,9 @@ Melodies created in LMMS software
 * output/*.ogg - raw audio output
 * project/*.mmpz - actual DAW file
 
+The notations files are compatible with [swar.lmms](https://github.com/anytizer/swar.lmms) application.
+It can produce .xpt pattern files for use with LMMS.
+
 ## Audio Licensing
 
 Each audio file is licensed differently due to the efforts it took to develop.
