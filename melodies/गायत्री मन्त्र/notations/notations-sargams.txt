@@ -5,16 +5,16 @@
 
 # ॐ भूर्भुवः स्वः तत्सवितुर्वरेण्यं भर्गो देवस्य धीमहि धियो यो नः प्रचोदयात्
 
-ga - ga -      | re ga,pa ga -
-ga ga,ga ga    | -,pa re - re -
-sa re re re    | sa,re ga re - 
-sa sa,sa re ga | sa,re sa sa -
+ga - ga -        | re ga,pa ga -
+ga ga,ga ga -,pa | re - re -
+sa re re re      | sa,re ga re - 
+sa sa,sa re ga   | sa,re sa sa -
 
 # english scales
-# 1: E     -     E     -     | D     E,G   E     -    
-# 2: E     E,E   E     -,G   | D     -     D     -    
-# 3: C     D     D     D     | C,D   E     D     -    
-# 4: C     C,C   D     E     | C,D   C     C     -    
+ 1: E     -     E     -     | D     E,G   E     -    
+ 2: E     E,E   E     -,G   | D     -     D     -    
+ 3: C     D     D     D     | C,D   E     D     -    
+ 4: C     C,C   D     E     | C,D   C     C     -       
 
 # Adapted from flute tutorials by: JK Bista
 # https://www.youtube.com/watch?v=iVdCshA0ps8
