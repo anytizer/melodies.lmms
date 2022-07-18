@@ -10,10 +10,8 @@ Melodies created in LMMS software, with source file.
 The notations files are compatible with [swar.lmms](https://github.com/anytizer/swar.lmms) application.
 The swar.lmms project can produce .xpt XML Pattern files from sargam notations, for importing them into LMMS's piano editor.
 
-## Raw Files
-MMPZ is a compressed LMMS project file.
-The raw files (*.mmpz) can be reopend in the software.
-You can then edit each melodies.
+The data entry has been already done in .mmpz files.
+MMPZ is a compressed LMMS project file. You can reopen the project's corresponding .mmpz file in LMMS software in order to edit each melody.
 
 ## Did you improve?
 Let me know back if you improved those melodies.
