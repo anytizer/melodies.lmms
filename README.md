@@ -2,17 +2,15 @@
 Melodies created in LMMS software
 
 ## Project files structure
-
 * lyrics/*.txt - lyrics file
 * notations/*.txt - sargam notes
 * output/*.ogg - raw audio output
 * project/*.mmpz - actual DAW file
 
 The notations files are compatible with [swar.lmms](https://github.com/anytizer/swar.lmms) application.
-It can produce .xpt pattern files for use with LMMS.
+It can produce .xpt XML Pattern files for importing in LMMS.
 
 ## Audio Licensing
-
 Each audio file is licensed differently due to the efforts it took to develop.
 Please read carefully the README.md file in each project's output/ folder.
 
@@ -25,3 +23,6 @@ Let me know back if you improved those melodies.
 
 # Audio (*.ogg) Samples
 Completed output is available at **melodies/PROJECT/output/*.ogg**
+
+# LMMS file (*.mmpz)
+MMPZ is a compressed LMMS project file.
