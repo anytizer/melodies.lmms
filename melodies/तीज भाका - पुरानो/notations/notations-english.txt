@@ -1,0 +1,70 @@
+# Teej Melody
+
+# Tempo: 321 bpm
+# Time Signature: 3/4 Beats
+# Scale: F
+# Peace: Khemta Taal
+
+# Credits
+# These notations are provided by the tutor/author in a specific writing.
+# Melody Author: JK Bista (https://www.youtube.com/c/JkBista/videos)
+# Digitization: Bimal Poudel (@anytizer)
+
+ 1: E     A     G     | C*    A     G     | D     E     G     | A     G     E    
+ 2: C     D     E     | G     E     C     | D     -     -     | -     -     -    
+ 3: E     -     D     | G     E     D     | G     -     -     | -     -     -    
+ 4: E     A     G     | C*    A     G     | D     E     G     | A     G     E    
+ 5: C     D     E     | E     D,C   D     | C     -     -     | -     -     -    
+ 6: E     A     G     | C*    A     G     | C*    -     -     | -     -     -    
+ 7: D     E     G     | A     G     E     | G     -     -     | -     -     -    
+ 8: E     A     G     | C*    A     G     | C*    -     -     | -     -     -    
+ 9: D     E     G     | A     G     E     | G     -     -     | -     -     -    
+10: G     A     E     | E     G     E     | C     E     D     | D     C     A.   
+11: D     -     -     | -     -     -    
+12: G     A     E     | E     G     E     | C     E     D     | D     C     A.   
+13: D     -     -     | -     -     -    
+14: D     -     D     | E     E     G     | E     -     E     | D     D     C    
+15: C     -     D     | C     C     A.    | C     D     E     | -     -     -    
+16: D     -     D     | E     E     G     | E     -     E     | D     D     C    
+17: C     -     D     | C     C     A.    | C     D     E     | -     -     -    
+18: D     -     D     | E     E     G     | E     -     E     | D     D     C    
+19: C     -     D     | C     -     C     | C     -     -     | E     -     D    
+20: D     -     D     | E     E     G     | E     -     E     | D     D     C    
+21: C     -     D     | C     C     -     | C     -     -     | -     -     -    
+22: D     -     D     | E     E     G     | E     -     E     | D     D     C    
+23: C     -     D     | C     C     A.    | C     D     E     | -     -     -    
+24: D     -     D     | E     E     G     | E     -     E     | D     D     C    
+25: C     -     D     | C     C     A.    | C     D     E     | -     -     -    
+26: D     -     D     | E     E     G     | E     -     E     | D     D     C    
+27: C     -     D     | C     -     C     | C     -     -     | E     -     D    
+28: D     -     D     | E     E     G     | E     -     E     | D     D     C    
+29: C     -     D     | C     C     -     | C     -     -     | -     -     -    
+30: E     A     G     | C*    A     G     | C*    -     -     | -     -     -    
+31: D     E     G     | A     G     E     | G     -     -     | -     -     -    
+32: E     A     G     | C*    A     G     | C*    -     -     | -     -     -    
+33: D     E     G     | A     G     E     | G     -     -     | -     -     -    
+34: G     A     E     | E     G     E     | C     E     D     | D     C     A.   
+35: D     -     -     | -     -     -    
+36: G     A     E     | E     G     E     | C     E     D     | D     C     A.   
+37: D     -     -     | -     -     -     | x     x     x     | x     x     x    
+38: D     -     D     | E     E     G     | E     -     E     | D     D     C    
+39: C     -     D     | C     C     A.    | C     D     E     | -     -     -    
+40: D     -     D     | E     E     G     | E     -     E     | D     D     C    
+41: C     -     D     | C     C     A.    | C     D     E     | -     -     -    
+42: D     -     D     | E     E     G     | E     -     E     | D     D     C    
+43: C     -     D     | C     -     C     | C     -     -     | E     -     D    
+44: D     -     D     | E     E     G     | E     -     E     | D     D     C    
+45: C     -     D     | C     C     -     | C     -     -     | -     -     -    
+46: D     -     D     | E     E     G     | E     -     E     | D     D     C    
+47: C     -     D     | C     C     A.    | C     D     E     | -     -     -    
+48: D     -     D     | E     E     G     | E     -     E     | D     D     C    
+49: C     -     D     | C     C     A.    | C     D     E     | -     -     -    
+50: D     -     D     | E     E     G     | E     -     E     | D     D     C    
+51: C     -     D     | C     -     C     | C     -     -     | E     -     D    
+52: D     -     D     | E     E     G     | E     -     E     | D     D     C    
+53: C     -     D     | C     C     -     | C     -     -     | -     -     -    
+54: A.    -     -     | -     -     -     | -     -     -     | -     -     -    
+55: A.    -     G.    | D     -     -     | -     -     -     | -     -     -    
+56: A.    -     A.    | C     -     -     | -     -     -     | -     -     -    
+57: A.    -     G.    | D     -     -     | -     -     -     | -     -     -    
+58: A.    -     A.    | C     -     -     | -     -     -     | -     -     -    
