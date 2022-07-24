@@ -30,10 +30,10 @@ So, compile / regenerate your own beats!
 
 # Mind your speakers
 These LMMS files are made comatible on cup-foamed gaming headphones experience.
-Mind your speakers, if you are playing loud.
+Mind your speakers, if you are playing too loud.
 
 # Research | Experiement | Develop
 A lot of researches are made, experimentations done, data entries made, and applications developed to raise this project.
 If you make use of any of the materials in this project, please consider backlinking in your derivatives.
 
-Thank you!
+Thank you! Enjoy the raw beats!
