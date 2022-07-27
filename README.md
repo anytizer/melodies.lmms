@@ -45,6 +45,8 @@ Neither I nor the collaborators may always claim that they fully own it.
 I seek the orignal contributor to credit them properly. See *credits.txt* file where applicable.
 Credits may exist in .txt files as well.
 
+These are **melodies** only, not a full audio compilation.
+
 # Mind your speakers
 These LMMS files are made comatible on cup-foamed gaming headphones experience.
 Mind your speakers, if you are playing too loud.
