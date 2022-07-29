@@ -80,7 +80,10 @@ So copyrights may still remain with known or unknown team of original workers fo
 Primary purpose is to preserve and tutor the melody; but please respect individual item's copyright information if you are using them commercially.
 
 # Notations Formatting
-* Hash ('#' means a comment line.
+
+The notations formatting is closer to the Bhatkhande style. Parsing logic has been included for the following:
+
+* Hash '#' means a comment line.
 * Pipe '|' is a division separator.
 * Comma ',' is a group of tunes played together within the same beat.
 * '#//' is a block separator, eg. Melody/Prelude/Stanza separator.
