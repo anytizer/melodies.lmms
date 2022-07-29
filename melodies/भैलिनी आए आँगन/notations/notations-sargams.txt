@@ -1,5 +1,7 @@
 # From a Flute Tutorial
 # https://youtu.be/N4KWJKlX0Qw
+# Tempo: 200 bpm
+# Beats: 3/4
 
 S,R  P  - |  M,G  R,G  R,S  |  R  P  -,M
 DHA  -  -
