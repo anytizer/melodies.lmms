@@ -20,7 +20,7 @@ Supplied .mmpz file may not contain enough presets. They are for melodies only.
 Let me know back if you improved those melodies.
 
 ## Disclaimers
-It is a collaborative project; my work is free; but the melody may not be.
+It is a collaborative project; my work is free; but the melody or other collaborator's work may not be.
 Collaborators may retain their authorship.
 
 ### Samples - Disclaimer
@@ -51,9 +51,9 @@ These are **melodies** only, not a full audio compilation.
 These LMMS files are made comatible on cup-foamed gaming headphones experience.
 Mind your speakers, if you are playing too loud.
 
-# Research | Experiement | Develop
+# Research | Experiement | Develop | Collaborate
 A lot of researches are made, experimentations done, data entries made, and applications developed to raise this project.
-If you make use of any of the materials in this project, please consider backlinking in your derivatives.
+If you make use of any of the materials in this project, please consider backlinking this project in your derivatives.
 
 Also, please duplicate the melody's copyright information (generally, credits.txt file) within your work too.
 
@@ -67,6 +67,6 @@ I have tried to collborate the collection of melodies in order to preseve them.
 It takes several days to improve a melody, and I tend to supply as much information as possible.
 This includes source of melody (original websites, tutorials, videos), author's contact information, improviser's views, and some stories behind the original work.
 
-So copyrights may still remain with known or unknown team of original workers for their contributions, even if the team mate has decesead.
+So copyrights may still remain with known or unknown team of original workers for their contributions, even if the team mate has been decesead.
 
-Primary purpose is to preserve and tutor; but please respect individual item's copyright information.
+Primary purpose is to preserve and tutor the melody; but please respect individual item's copyright information if you are using them commercially.
