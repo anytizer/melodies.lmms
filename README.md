@@ -78,3 +78,14 @@ This includes source of melody (original websites, tutorials, videos), author's 
 So copyrights may still remain with known or unknown team of original workers for their contributions, even if the team mate has been decesead.
 
 Primary purpose is to preserve and tutor the melody; but please respect individual item's copyright information if you are using them commercially.
+
+# Notations Formatting
+* Hash ('#' means a comment line.
+* Pipe '|' is a division separator.
+* Comma ',' is a group of tunes played together within the same beat.
+* '#//' is a block separator, eg. Melody/Prelude/Stanza separator.
+* Appostrophie ''' means Sharp note.
+* Asterisk '*' means higher octave note.
+* Dot '.' means lower octave note.
+* Dash '-' means continuation of a note.
+* X mark 'x' means slicence.
