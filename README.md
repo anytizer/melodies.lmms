@@ -13,8 +13,16 @@ The notations files are made compatible with my other project: [swar.lmms](https
 That project can produce .xpt XML Pattern files from sargam notations, for importing them directly into LMMS's piano editor.
 This makes data entry easier, faster and accurate.
 
+### Basic conversion chart
+Representation↓ Keys →| C | C# | D | D# | E | F | F# | G | G# | A | A# | B
+-- | -- | -- | -- | -- | -- | -- | -- | -- | -- | -- | -- | --
+English | C | C# | D | D# | E | F | F# | G | G# | A | A# | B
+Roman Short Form | S | S' | R | R' | G | M | M' | P | P' | D | D' | N
+North Indian | सा | सा' | रे | रे' | ग | म | म' | प | प' | ध | ध' | नि
+
 If you see project.mmpz file, the data entry has been already done for you.
-Supplied .mmpz file may not contain enough presets. They are for melodies only.
+Supplied .mmpz file does not contain enough instrumental presets.
+They are for melodies only.
 
 ## Did you improve?
 Let me know back if you improved those melodies.
