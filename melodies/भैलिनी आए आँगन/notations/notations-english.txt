@@ -1,0 +1,24 @@
+C,D   G     -     | F,E   D,E   D,C   | D     G     -,F  
+A     -     -    
+F,G   F     -     | E     D     C     | C     D,E   D,C  
+C     -     -    
+C,D   G     -     | F,E   D,E   D,C   | D     G     -,F  
+A     -     -    
+F,G   F     -     | E     D     C     | C     D,E   D,C  
+C     -     -    
+F     -     -     | E     D     C     | D     F     -    
+E     D,C   D,E   | D     C     -     | C     -     -    
+F     -     -     | E     D     C     | D     F     -    
+E     D,C   D,E   | D     C     -     | C     -     -    
+C,D   G     -     | F,E   D,E   D,C   | D     G     -,F  
+A     -     -    
+F,G   F     -     | E     D     C     | C     D,E   D,C  
+C     -     -    
+C,D   G     -     | F,E   D,E   D,C   | D     G     -,F  
+A     -     -    
+F,G   F     -     | E     D     C     | C     D,E   D,C  
+C     -     -    
+F     -     -     | E     D     C     | D     F     -    
+E     D,C   D,E   | D     C     -     | C     -     -    
+F     -     -     | E     D     C     | D     F     -    
+E     D,C   D,E   | D     C     -     | C     -     -    
