@@ -81,7 +81,7 @@ Primary purpose is to preserve and tutor the melody; but please respect individu
 
 # Notations Formatting
 
-The notations formatting is closer to the Bhatkhande style. Parsing logic has been included for the following:
+The notations formatting is closer to the [Bhatkhande style](https://archive.org/search.php?query=bhatkhande). Parsing logic has been included for the following:
 
 * Hash '#' means a comment line.
 * Pipe '|' is a division separator.
