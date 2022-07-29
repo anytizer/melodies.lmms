@@ -1,0 +1,36 @@
+# From a Flute Tutorial
+# https://youtu.be/N4KWJKlX0Qw
+
+S,R  P  - |  M,G  R,G  R,S  |  R  P  -,M
+DHA  -  -
+M,P  M  - | G  R  S |  S  R,G  R,S
+S    -   -
+
+S,R  P  -  |  M,G  R,G  R,S  |  R  P  -,M
+DHA  -  -
+M,P  M  -  | G  R  S |  S  R,G  R,S
+S  -   -
+
+M  -  -    | G  R  S | R  M  -
+G  R,S R,G | R  S  - | S  -  -
+
+M  -  -  |  G  R  S  |  R  M  -
+G  R,S R,G | R  S  - | S  -  -
+
+# repeatition
+
+S,R  P  - |  M,G  R,G  R,S  |  R  P  -,M
+DHA  -  -
+M,P  M  - | G  R  S |  S  R,G  R,S
+S    -   -
+
+S,R  P  -  |  M,G  R,G  R,S  |  R  P  -,M
+DHA  -  -
+M,P  M  -  | G  R  S |  S  R,G  R,S
+S  -   -
+
+M  -  -    | G  R  S | R  M  -
+G  R,S R,G | R  S  - | S  -  -
+
+M  -  -  |  G  R  S  | R  M  -
+G  R,S R,G | R  S  - | S  -  -
