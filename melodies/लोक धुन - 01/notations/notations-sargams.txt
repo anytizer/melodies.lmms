@@ -1,0 +1,42 @@
+# Credits for this tutorial:
+# Nepali Folk Tune Intro on flute by Dinesh Poudyal
+# https://www.youtube.com/watch?v=JkEbTOzqyM4
+#
+# LMMS version first appeared at:
+# https://lmms.io/lsp?action=show&file=18770
+#
+# time signature: 2/4
+# tempo: 160 bpm
+# beats: (flute only, other instruments to be silent)
+# length: 00:35
+#
+# instruments presets used and modified from LMMS Sharing Platform:
+#   1. monstro flute.xpf
+#   2. smoothflute.xpf (TripleOscillator)
+
+ga pa - dha,ni,pa,dha sa* - dha,ni,pa,dha sa* dha sa* - -
+re*,x,x,x x
+
+ga*,re*,ga*,re* sa*,ni pa dha - -
+ga*,re*,ga*,re* sa*,ni pa dha - -
+sa*,x,x,x x
+
+sa*,dha,pa,dha - - -
+sa*,dha,pa,dha sa*,dha,pa,dha sa*,dha,pa,dha sa*,dha,pa,dha
+- - - re*,x,x,x x x
+
+ga pa sa*,ni,pa,dha - - re*,x,x,x x
+ga pa sa*,ni,pa,dha - - re*,x,x,x x
+
+# upto here: bar 28
+
+ga,re,sa,re - - - - x
+
+ga,re,sa,re ga,re,sa,re ga,re,sa,re - - ga,x,x,x x
+sa* ni pa,dha - - pa
+
+ga re sa ga - - - x
+ga,re,sa,ga ga,re,sa,ga ga,re,sa,ga ga,re,sa,ga
+sa,ni. pa.,dha. sa dha.,sa sa - -
+
+# slience of 1 at the end to make it bar 48.
