@@ -1,8 +1,8 @@
 # Nepali folk introduction tune - pattern
 
 Instruments presets used and modified from LMMS Sharing Platform:
- 1. monstro flute.xpf
- 2. smoothflute.xpf (TripleOscillator)
+ 1. [monstro flute.xpf](https://lmms.io/lsp/?action=show&file=17429)
+ 2. [smoothflute.xpf](https://lmms.io/lsp/?action=show&file=4649) (TripleOscillator)
 
 ## Signatures:
 
