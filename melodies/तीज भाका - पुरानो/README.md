@@ -28,4 +28,4 @@ And, observed by millions of views around this theme.
 - [Aau didee bahinee ho](https://www.youtube.com/watch?v=-7gpdAEsodk)
 - [Udi aayo raanee charee](https://www.youtube.com/watch?v=5IOfSbrxaSc)
 - [Charee Jelai maa](https://www.youtube.com/watch?v=lsKAqFo0Yck)
-- [Fauji ko Naati](https://www.youtube.com/watch?v=H2g807DxsbA)
+- [Faujiko Nati Turlung Turlung](https://www.youtube.com/watch?v=H2g807DxsbA)
