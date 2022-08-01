@@ -2,7 +2,7 @@
 Melodies that are re-generatable in LMMS software, with source file.
 
 ## Project files structure
-* lyrics/*.txt: lyrics file
+* lyrics/*.txt, *.lrc: lyrics file
 * notations/*.txt: (स्वर लिपी) Sargam or English scale notes eg. notations-sargams.txt formatten in Bhatkhande Style.
 * output/*.ogg: Raw audio output eg. 01.ogg
 * project/*.mmpz: Actual DAW file for LMMS eg. project.mmpz
@@ -25,7 +25,7 @@ Supplied .mmpz file does not contain enough instrumental presets.
 They are for melodies only.
 
 ## Did you improve?
-Let me know back if you improved those melodies.
+Let me know back if you improved any of these melodies.
 
 ## Disclaimers
 It is a collaborative project; my work is free; but the melody or other collaborator's work may not be.
@@ -81,13 +81,14 @@ Primary purpose is to preserve and tutor the melody; but please respect individu
 
 # Notations Formatting
 
-The notations formatting is closer to the [Bhatkhande style](https://archive.org/search.php?query=bhatkhande). Parsing logic has been included for the following:
+The notations formatting is __similar__ to the [Bhatkhande style](https://archive.org/search.php?query=bhatkhande).
+Parsing logic has been included for the following:
 
 * Hash '#' means a comment line.
 * Pipe '|' is a division separator.
 * Comma ',' is a group of tunes played together within the same beat.
 * '#//' is a block separator, eg. Melody/Prelude/Stanza separator.
-* Appostrophie ''' means Sharp note.
+* Apostrophe ''' means Sharp note.
 * Asterisk '*' means higher octave note.
 * Dot '.' means lower octave note.
 * Dash '-' means continuation of a note.
