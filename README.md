@@ -89,7 +89,7 @@ Parsing logic has been included for the following:
 * Comma ',' is a group of notes played together within the same beat [meed, gamak, khitkaa, kan].
 * '#//' is a block separator, eg. Melody/Music/Prelude/Stanza separator.
 * Apostrophe ''' means a sharp note. eg: ma'
-* Asterisk '*' means higher octave note. eg: sa*
+* Asterisk '*' means higher octave note. eg: `sa*`
 * Dot '.' means lower octave note. eg: dha.
 * Dash '-' means continuation of a note. eg: sa - - -
 * X mark 'x' means slicence. eg: sa - - x
