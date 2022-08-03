@@ -1,5 +1,5 @@
 # melodies.lmms
-Melodies that are re-generatable in LMMS software, with source file.
+Melodies that are re-generatable in [LMMS](https://lmms.io/) software ([GitHub Project](https://github.com/LMMS/lmms)), with source file.
 
 ## Project files structure
 * lyrics/*.txt, *.lrc: lyrics file
