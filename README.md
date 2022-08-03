@@ -86,7 +86,7 @@ Parsing logic has been included for the following:
 
 * Hash '#' means a comment line.
 * Pipe '|' is a division separator.
-* Comma ',' is a group of tunes played together within the same beat [meed, gamak, khitkaa, kan].
+* Comma ',' is a group of notes played together within the same beat [meed, gamak, khitkaa, kan].
 * '#//' is a block separator, eg. Melody/Music/Prelude/Stanza separator.
 * Apostrophe ''' means a sharp note.
 * Asterisk '*' means higher octave note.
