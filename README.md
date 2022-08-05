@@ -95,7 +95,7 @@ Parsing logic has been included for the following:
 * X mark 'x' means slicence during its timing. eg: `sa - - x`
 
 # Creating special notes:
-Timing is separated using comma in a beat:
+Timing is divided using comma in a beat:
 * 1 comma: 50%,50%
 * 2 comma: 33%,33%,33% - might produce a glitch
 * 3 comma: 25%,25%,25%,25% time eg, in flutes
