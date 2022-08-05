@@ -2,11 +2,11 @@
 Melodies that are re-generatable in [LMMS](https://lmms.io/) software ([GitHub Project](https://github.com/LMMS/lmms)), with source file.
 
 ## Project files structure
-* lyrics/*.txt, *.lrc: lyrics file
-* notations/*.txt: (स्वर लिपी) Sargam or English scale notes eg. notations-sargams.txt formatten in Bhatkhande Style.
-* output/*.ogg: Raw audio output eg. 01.ogg
-* project/*.mmpz: Actual DAW file for LMMS eg. project.mmpz
-* youtube.txt: Collection of video links around a project
+* `lyrics/*.txt`, `*.lrc`: lyrics file
+* `notations/*.txt`: (स्वर लिपी) Sargam or English scale notes eg. notations-sargams.txt formatted in Bhatkhande Style.
+* `output/*.ogg`: Raw audio output eg. 01.ogg
+* `project/*.mmpz`: Actual DAW file for LMMS eg. project.mmpz
+* `youtube.txt`: Collection of video links around a project
 
 ## swar converter
 The notations files are made compatible with my other project: [swar.lmms](https://github.com/anytizer/swar.lmms/) application.
@@ -96,9 +96,9 @@ Parsing logic has been included for the following:
 
 # Creating special notes:
 Timing is divided using comma in a beat:
-* 1 comma: 50%,50%
-* 2 comma: 33%,33%,33% - might produce a glitch
-* 3 comma: 25%,25%,25%,25% time eg, in flutes
+* 1 comma: 50%,50% timing
+* 2 comma: 33%,33%,33% timing - might produce a glitch
+* 3 comma: 25%,25%,25%,25% timing eg, in flutes
 * `re,x,x,x` termimates with a very short `re`.
 * `re,-,x,x` may be similar to `re,x`
 * `re,re` and `re,-` are different.
