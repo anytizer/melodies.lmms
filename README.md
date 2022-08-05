@@ -85,11 +85,20 @@ The notations formatting is __similar__ to the [Bhatkhande style](https://archiv
 Parsing logic has been included for the following:
 
 * Hash '#' means a comment line.
-* Pipe '|' is a division separator.
-* Comma ',' is a group of notes played together within the same beat [meed, gamak, khitkaa, kan]. eg: `sa,re re,ga`
+* Pipe '|' is a division separator - Bar, or [Vibhag](https://en.wikipedia.org/wiki/Vibhag).
+* Comma ',' is a group of notes played together within the same beat. eg: `sa,re re,ga` (meed, gamak, khitkaa, kan)
 * '#//' is a block separator, eg. Melody/Music/Prelude/Stanza separator.
 * Apostrophe ''' means a sharp note. eg: `ma'`
 * Asterisk '*' means higher octave note. eg: `sa*`
 * Dot '.' means lower octave note. eg: `dha.`
 * Dash '-' means continuation of a note. eg: `sa - - -`
-* X mark 'x' means slicence. eg: `sa - - x`
+* X mark 'x' means slicence during its timing. eg: `sa - - x`
+
+# Creating special notes:
+Timing is separated using comma in a beat:
+* 1 comma: 50%,50%
+* 2 comma: 33%,33%,33% - might produce a glitch
+* 3 comma: 25%,25%,25%,25% time eg, in flutes
+* `re,x,x,x` termimates with a very short `re`.
+* `re,-,x,x` may be similar to `re,x`
+* `re,re` and `re,-` are different.
