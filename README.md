@@ -92,7 +92,10 @@ Parsing logic has been included for the following:
 * Asterisk '*' means higher octave note. eg: `sa*`
 * Dot '.' means lower octave note. eg: `dha.`
 * Dash '-' means continuation of a note. eg: `sa - - -`
-* X mark 'x' means slicence during its timing. eg: `sa - - x`
+* X mark 'x' means slicence during its timing. eg: `sa - - x` (eg. time to breathe)
+
+## Some enhancements:
+* Do NOT write like `sa - x -`, instead write: `sa - x x`
 
 # Creating special notes:
 Timing is divided using comma in a beat:
