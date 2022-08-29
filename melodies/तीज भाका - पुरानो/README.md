@@ -29,3 +29,6 @@ And, observed by millions of views around this theme.
 - [Udi aayo raanee charee](https://www.youtube.com/watch?v=5IOfSbrxaSc)
 - [Charee Jelai maa](https://www.youtube.com/watch?v=lsKAqFo0Yck)
 - [Faujiko Nati Turlung Turlung](https://www.youtube.com/watch?v=H2g807DxsbA)
+
+##2079 (2022)
+- [aba ta gai gayo barkhaa ni; belaa bho teejai ko dar khaanee](https://youtu.be/ILVMTKVqpkM)
