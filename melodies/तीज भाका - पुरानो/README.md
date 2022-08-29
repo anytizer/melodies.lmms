@@ -16,19 +16,32 @@ And, observed by millions of views around this theme.
 
 # Some modernised versions of Teej songs
 
-- [Mai maagthe baalaapan](https://www.youtube.com/watch?v=2YczFJT3T84)
-- [Maaitee ko desh](https://www.youtube.com/watch?v=EveF5XcnQJM)
-- [Saaree farara](https://www.youtube.com/watch?v=dg-70wEC-7Y)
-- [Chhappai maayaa lai lai](https://www.youtube.com/watch?v=36KuCvAn320)
-- [Baabaa le saareko suntalaa ko biruwaa](https://www.youtube.com/watch?v=EEYJkfp6VBE)
-- [Soche jhain jindagee raina chha](https://www.youtube.com/watch?v=PsXzEdhiTN0)
-- [Chitikkai bhaa chhu re](https://www.youtube.com/watch?v=16Qf5qMRtY4)
-- [Ghankee de maadalu](https://www.youtube.com/watch?v=zAScwHCwvMQ)
-- [Sunnu holaa didee bahinee](https://www.youtube.com/watch?v=LVqaOkhx_R0)
-- [Aau didee bahinee ho](https://www.youtube.com/watch?v=-7gpdAEsodk)
-- [Udi aayo raanee charee](https://www.youtube.com/watch?v=5IOfSbrxaSc)
-- [Charee Jelai maa](https://www.youtube.com/watch?v=lsKAqFo0Yck)
+## 2079 (2022)
+- [aba ta gai gayo barkhaa ni; belaa bho teejai ko dar khaanee](https://youtu.be/ILVMTKVqpkM)
 - [Faujiko Nati Turlung Turlung](https://www.youtube.com/watch?v=H2g807DxsbA)
 
-##2079 (2022)
-- [aba ta gai gayo barkhaa ni; belaa bho teejai ko dar khaanee](https://youtu.be/ILVMTKVqpkM)
+## 2078 (2021)
+- [Ghankee de maadalu](https://www.youtube.com/watch?v=zAScwHCwvMQ)
+- [Charee Jelai maa](https://www.youtube.com/watch?v=lsKAqFo0Yck)
+
+## 2077 (2020)
+- [Mai maagthe baalaapan](https://www.youtube.com/watch?v=2YczFJT3T84)
+- [Maaitee ko desh](https://www.youtube.com/watch?v=EveF5XcnQJM)
+- [Soche jhain jindagee raina chha](https://www.youtube.com/watch?v=PsXzEdhiTN0)
+
+## 2076 (2019)
+- [Saaree farara](https://www.youtube.com/watch?v=dg-70wEC-7Y)
+- [Chhappai maayaa lai lai](https://www.youtube.com/watch?v=36KuCvAn320)
+- [Chitikkai bhaa chhu re](https://www.youtube.com/watch?v=16Qf5qMRtY4)
+
+## 2075 (2018)
+- [Aau didee bahinee ho](https://www.youtube.com/watch?v=-7gpdAEsodk)
+
+## 2074 (2017)
+- [Baabaa le saareko suntalaa ko biruwaa](https://www.youtube.com/watch?v=EEYJkfp6VBE)
+
+## 2073 (2016)
+- [Sunnu holaa didee bahinee](https://www.youtube.com/watch?v=LVqaOkhx_R0)
+
+## 2072 (2015)
+- [Udi aayo raanee charee](https://www.youtube.com/watch?v=5IOfSbrxaSc)
