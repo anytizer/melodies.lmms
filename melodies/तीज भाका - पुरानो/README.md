@@ -20,7 +20,9 @@ And, observed by millions of views around this theme.
 - [aba ta gai gayo barkhaa ni; belaa bho teejai ko dar khaanee](https://youtu.be/ILVMTKVqpkM)
 - [Faujiko Nati Turlung Turlung](https://www.youtube.com/watch?v=H2g807DxsbA)
 - [Jhama Jhama Jhamkana - laaun ki nalaaun ma](https://www.youtube.com/watch?v=PfWR-yLpu18)
-- [piyaa raajai](https://www.youtube.com/watch?v=TEOznfwiFt0)
+- [Piyaa Raajai](https://www.youtube.com/watch?v=TEOznfwiFt0)
+- [Bindu](https://www.youtube.com/watch?v=5vf7PylaXwQ)
+- [Haamro Teej](https://www.youtube.com/watch?v=upb_Yex1o1I)
 
 ## B.S. 2078 (2021)
 - [Ghankee de maadalu](https://www.youtube.com/watch?v=zAScwHCwvMQ)
@@ -33,6 +35,7 @@ And, observed by millions of views around this theme.
 - [Soche jhain jindagee raina chha](https://www.youtube.com/watch?v=PsXzEdhiTN0)
 - [Jaminai Tharara](https://www.youtube.com/watch?v=ra2apOOPxQw)
 - [Bhangeree charee le](https://www.youtube.com/watch?v=nT4jS3ruKE0)
+- [Old teej song](https://www.youtube.com/watch?v=VtM1qI7DG-Q)
 
 ## B.S. 2076 (2019)
 - [Saaree farara](https://www.youtube.com/watch?v=dg-70wEC-7Y)
@@ -42,6 +45,7 @@ And, observed by millions of views around this theme.
 ## B.S. 2075 (2018)
 - [Aau didee bahinee ho](https://www.youtube.com/watch?v=-7gpdAEsodk)
 - [Pahilaa number suna le](https://www.youtube.com/watch?v=vXepeUrU5Wc)
+- [सबको मन छुने तीज गित](https://www.youtube.com/watch?v=drQDi7wojGQ)
 
 ## B.S. 2074 (2017)
 - [Baabaa le saareko suntalaa ko biruwaa](https://www.youtube.com/watch?v=EEYJkfp6VBE)
@@ -54,13 +58,21 @@ And, observed by millions of views around this theme.
 - [Teej raamro ram jham le](https://www.youtube.com/watch?v=hyi7PURLZyc)
 - [YESPALI KO TEEJ](https://www.youtube.com/watch?v=ekC8gdFLHL4)
 - [Cheli ko bedana चेलीको बेदना](https://www.youtube.com/watch?v=Cftqxr4XZaU)
+- [महाभूकम्प,महाविपत्त–२०७२](https://www.youtube.com/watch?v=bnOzG9E9eIs) - Earthquake
 
 ## B.S. 2071 (2014)
 - [kahaan baata aayo jurelee charee](https://www.youtube.com/watch?v=kq04r-2aClo)
 - [Barsa din ko teej](https://www.youtube.com/watch?v=wT5ldULD6vg)
+- [Gai charyo Bhiraima](https://www.youtube.com/watch?v=iIs07Dytcrw)
 
 ## B.S. 2070 (2013)
 - [Yo Teejai Ma Dhalkerai](https://www.youtube.com/watch?v=Kk1bfSdB2mY)
 
 ## B.S. 2069 (2012)
 - [Sirmaa Laune Sirfula](https://www.youtube.com/watch?v=gXdKM8YeRbM)
+
+## B.S. 2068 (2011)
+- [Myanmar: Teej aayo sannani](https://www.youtube.com/watch?v=yn5rZVtenn0)
+
+## 1997?, 2017
+- [यस्ता पो हुन्छन मौलिक तीज गीत](https://www.youtube.com/watch?v=FR17DPsjXiE)
