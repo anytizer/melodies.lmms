@@ -23,11 +23,13 @@ And, observed by millions of views around this theme.
 - [Piyaa Raajai](https://www.youtube.com/watch?v=TEOznfwiFt0)
 - [Bindu](https://www.youtube.com/watch?v=5vf7PylaXwQ)
 - [Haamro Teej](https://www.youtube.com/watch?v=upb_Yex1o1I)
+- [सम्झी रुन्छ मन](https://www.youtube.com/watch?v=v-TjJkjD9lI)
 
 ## B.S. 2078 (2021)
 - [Ghankee de maadalu](https://www.youtube.com/watch?v=zAScwHCwvMQ)
 - [Charee Jelai maa](https://www.youtube.com/watch?v=lsKAqFo0Yck)
 - [Solti Rajako Tumlet (आहै आ आ मुने )](https://www.youtube.com/watch?v=uifh2gzGRTs)
+- [Swami Ki Pyari](https://www.youtube.com/watch?v=hYSoqxvGGvc)
 
 ## B.S. 2077 (2020)
 - [Mai maagthe baalaapan](https://www.youtube.com/watch?v=2YczFJT3T84)
@@ -49,9 +51,11 @@ And, observed by millions of views around this theme.
 
 ## B.S. 2074 (2017)
 - [Baabaa le saareko suntalaa ko biruwaa](https://www.youtube.com/watch?v=EEYJkfp6VBE)
+- [Nabhane daai le aaina bainee maaita](https://www.youtube.com/watch?v=KGO_b33_DeA)
 
 ## B.S. 2073 (2016)
 - [Sunnu holaa didee bahinee](https://www.youtube.com/watch?v=LVqaOkhx_R0)
+- [Yaspali Ni Khane Dar](https://www.youtube.com/watch?v=lFYurx63c9c)
 
 ## B.S. 2072 (2015)
 - [Udi aayo raanee charee](https://www.youtube.com/watch?v=5IOfSbrxaSc)
@@ -67,6 +71,7 @@ And, observed by millions of views around this theme.
 
 ## B.S. 2070 (2013)
 - [Yo Teejai Ma Dhalkerai](https://www.youtube.com/watch?v=Kk1bfSdB2mY)
+- [Hajuraiko Man](https://www.youtube.com/watch?v=ZoLqFZgT84A)
 
 ## B.S. 2069 (2012)
 - [Sirmaa Laune Sirfula](https://www.youtube.com/watch?v=gXdKM8YeRbM)
