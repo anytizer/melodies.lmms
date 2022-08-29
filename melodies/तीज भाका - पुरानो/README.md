@@ -19,6 +19,7 @@ And, observed by millions of views around this theme.
 ## 2079 (2022)
 - [aba ta gai gayo barkhaa ni; belaa bho teejai ko dar khaanee](https://youtu.be/ILVMTKVqpkM)
 - [Faujiko Nati Turlung Turlung](https://www.youtube.com/watch?v=H2g807DxsbA)
+- [Jhama Jhama Jhamkana - laaun ki nalaaun ma](https://www.youtube.com/watch?v=PfWR-yLpu18)
 
 ## 2078 (2021)
 - [Ghankee de maadalu](https://www.youtube.com/watch?v=zAScwHCwvMQ)
@@ -28,6 +29,7 @@ And, observed by millions of views around this theme.
 - [Mai maagthe baalaapan](https://www.youtube.com/watch?v=2YczFJT3T84)
 - [Maaitee ko desh](https://www.youtube.com/watch?v=EveF5XcnQJM)
 - [Soche jhain jindagee raina chha](https://www.youtube.com/watch?v=PsXzEdhiTN0)
+- [Jaminai Tharara](https://www.youtube.com/watch?v=ra2apOOPxQw)
 
 ## 2076 (2019)
 - [Saaree farara](https://www.youtube.com/watch?v=dg-70wEC-7Y)
