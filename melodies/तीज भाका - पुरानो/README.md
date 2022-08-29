@@ -53,6 +53,7 @@ And, observed by millions of views around this theme.
 - [Udi aayo raanee charee](https://www.youtube.com/watch?v=5IOfSbrxaSc)
 - [Teej raamro ram jham le](https://www.youtube.com/watch?v=hyi7PURLZyc)
 - [YESPALI KO TEEJ](https://www.youtube.com/watch?v=ekC8gdFLHL4)
+- [Cheli ko bedana चेलीको बेदना](https://www.youtube.com/watch?v=Cftqxr4XZaU)
 
 ## B.S. 2071 (2014)
 - [kahaan baata aayo jurelee charee](https://www.youtube.com/watch?v=kq04r-2aClo)
