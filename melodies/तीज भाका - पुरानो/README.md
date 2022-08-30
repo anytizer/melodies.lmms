@@ -14,7 +14,7 @@ And my work does not justify maintaining it's authenticity.
 Every year, hundreds of such melodies are added to the YouTube like platform.
 And, observed by millions of views around this theme.
 
-# Some modernised versions of Teej songs
+# Examples of modernised versions of Teej songs
 
 ## B.S. 2079 (2022)
 - [aba ta gai gayo barkhaa ni; belaa bho teejai ko dar khaanee](https://youtu.be/ILVMTKVqpkM)
@@ -24,12 +24,18 @@ And, observed by millions of views around this theme.
 - [Bindu](https://www.youtube.com/watch?v=5vf7PylaXwQ)
 - [Haamro Teej](https://www.youtube.com/watch?v=upb_Yex1o1I)
 - [सम्झी रुन्छ मन](https://www.youtube.com/watch?v=v-TjJkjD9lI)
+- [मौलिक तिज गित](https://www.youtube.com/watch?v=AA_jffu3OWE)
+- [तिजको दिन नौमतीबाजामा रमाउनुहुदै आमादीदीबहिनीहरु](https://www.youtube.com/watch?v=N7Nhe4YLH08)
+- [मौलिक तिज गीत](https://www.youtube.com/watch?v=AQ0pOwldUVM)
+- [आमाको मौलिक तिज गित ](https://www.youtube.com/watch?v=9imka4GyvoI)
 
 ## B.S. 2078 (2021)
 - [Ghankee de maadalu](https://www.youtube.com/watch?v=zAScwHCwvMQ)
 - [Charee Jelai maa](https://www.youtube.com/watch?v=lsKAqFo0Yck)
 - [Solti Rajako Tumlet (आहै आ आ मुने )](https://www.youtube.com/watch?v=uifh2gzGRTs)
 - [Swami Ki Pyari](https://www.youtube.com/watch?v=hYSoqxvGGvc)
+- [पहिले को तीज गीत २०७८ | छोरी को बिलौना | मौलिक लय मा](https://www.youtube.com/watch?v=1baJRLJ5puM)
+- [Aayo Barai Jhalko Maitikai Desh](https://www.youtube.com/watch?v=Hef_9__wQTI)
 
 ## B.S. 2077 (2020)
 - [Mai maagthe baalaapan](https://www.youtube.com/watch?v=2YczFJT3T84)
@@ -38,11 +44,13 @@ And, observed by millions of views around this theme.
 - [Jaminai Tharara](https://www.youtube.com/watch?v=ra2apOOPxQw)
 - [Bhangeree charee le](https://www.youtube.com/watch?v=nT4jS3ruKE0)
 - [Old teej song](https://www.youtube.com/watch?v=VtM1qI7DG-Q)
+- [Chalti Aayeko](https://www.youtube.com/watch?v=Oap15rcMCM8)
 
 ## B.S. 2076 (2019)
 - [Saaree farara](https://www.youtube.com/watch?v=dg-70wEC-7Y)
 - [Chhappai maayaa lai lai](https://www.youtube.com/watch?v=36KuCvAn320)
 - [Chitikkai bhaa chhu re](https://www.youtube.com/watch?v=16Qf5qMRtY4)
+- [सानो भयो मादलु](https://www.youtube.com/watch?v=gGtKR2cBW7U)
 
 ## B.S. 2075 (2018)
 - [Aau didee bahinee ho](https://www.youtube.com/watch?v=-7gpdAEsodk)
@@ -52,6 +60,7 @@ And, observed by millions of views around this theme.
 ## B.S. 2074 (2017)
 - [Baabaa le saareko suntalaa ko biruwaa](https://www.youtube.com/watch?v=EEYJkfp6VBE)
 - [Nabhane daai le aaina bainee maaita](https://www.youtube.com/watch?v=KGO_b33_DeA)
+- [Barsa Dinka Teejma](https://www.youtube.com/watch?v=DoXIf6cdZrI)
 
 ## B.S. 2073 (2016)
 - [Sunnu holaa didee bahinee](https://www.youtube.com/watch?v=LVqaOkhx_R0)
