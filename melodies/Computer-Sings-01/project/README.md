@@ -1,2 +1,2 @@
-How good is this random melody? 100% computer generated!
+How good is this random melody? Randomly generated!
 Instruments might have been added.
