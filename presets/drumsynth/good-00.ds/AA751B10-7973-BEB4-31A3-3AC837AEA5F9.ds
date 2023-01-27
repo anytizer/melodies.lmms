@@ -1,0 +1,63 @@
+[General]
+RawID=AA751B10-7973-BEB4-31A3-3AC837AEA5F9
+Author=.ds randomizer
+Version=DrumSynth v2.0
+Comment=DrumSynth configurations generated randomly.
+Tuning=-1
+Stretch=70
+Level=58
+Filter=0
+Gain=40
+HighPass=0
+Resonance=17
+FilterEnv=0,75 44400,15 88800,26 133200,67 177600,87 222000,58 222000,0
+
+[Tone]
+On=1
+Level=169
+F1=1550
+F2=775
+Droop=71
+Phase=-114
+Envelope=0,75 12666,21 25332,17 37998,68 38000,0
+
+[Noise]
+On=0
+Level=145
+Slope=-52
+Envelope=0,70 14016,70 28032,68 42048,35 56064,98 56065,0
+
+[Overtones]
+On=1
+Level=82
+F1=355
+Wave1=2
+Track1=1
+F2=177
+Wave2=2
+Track2=0
+Filter=0
+Method=0
+Param=98
+Envelope1=0,50 10116,21 20232,40 30348,80 30350,0
+Envelope2=0,75 8952,39 17904,7 26856,4 26858,0
+
+[NoiseBand]
+On=0
+Level=132
+F=58050
+dF=9675
+Envelope=0,45 17956,85 35912,19 35912,0
+
+[NoiseBand2]
+On=0
+Level=145
+F=2060
+dF=206
+Envelope=0,45 10362,74 20724,33 31086,46 41448,25 41450,0
+
+[Distortion]
+On=1
+Clipping=12
+Bits=5
+Rate=5
