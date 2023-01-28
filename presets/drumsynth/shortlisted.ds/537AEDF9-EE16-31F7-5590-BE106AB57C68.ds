@@ -28,7 +28,7 @@ Slope=-28
 Envelope=0,75 2774,86 5548,0
 
 [Overtones]
-On=1
+On=0
 Level=60
 F1=360
 Wave1=1
@@ -50,7 +50,7 @@ dF=4742
 Envelope=0,50 178864,0
 
 [NoiseBand2]
-On=1
+On=0
 Level=31
 F=3190
 dF=354
