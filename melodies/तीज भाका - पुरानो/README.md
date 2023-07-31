@@ -18,6 +18,7 @@ And, observed by millions of views around this theme.
 
 ## B.S 2080 (2023)
 - [Kamauneni Ho Ramauneni Ho](https://www.youtube.com/watch?v=yFLnwz4iLvs)
+- [Dhaniyako Patta](https://www.youtube.com/watch?v=m_Y4SwShSIo)
 
 ## B.S. 2079 (2022)
 - [aba ta gai gayo barkhaa ni; belaa bho teejai ko dar khaanee](https://youtu.be/ILVMTKVqpkM)
@@ -65,6 +66,7 @@ And, observed by millions of views around this theme.
 - [Tiwari Aama New Teej Song](https://www.youtube.com/watch?v=1aT_R7zbtEw)
 
 ## B.S. 2075 (2018)
+- [Aajakaalka Jwai Raja - आजकालका ज्वाई राजा](https://www.youtube.com/watch?v=pM97VoySF5I)
 - [Aau didee bahinee ho](https://www.youtube.com/watch?v=-7gpdAEsodk)
 - [Pahilaa number suna le](https://www.youtube.com/watch?v=vXepeUrU5Wc)
 - [सबको मन छुने तीज गित](https://www.youtube.com/watch?v=drQDi7wojGQ)
