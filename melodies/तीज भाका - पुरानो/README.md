@@ -17,6 +17,7 @@ And, observed by millions of views around this theme.
 # Examples of modernised versions of Teej songs
 
 ## B.S 2080 (2023)
+- [AVAGINI | अभागिनी](https://www.youtube.com/watch?v=RLTCBARnIjA)
 - [Kamauneni Ho Ramauneni Ho](https://www.youtube.com/watch?v=yFLnwz4iLvs)
 - [Dhaniyako Patta](https://www.youtube.com/watch?v=m_Y4SwShSIo)
 
