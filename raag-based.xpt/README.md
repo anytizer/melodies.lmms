@@ -7,5 +7,5 @@ raag_name-x-y/NN.xpt
 x-y: time sinagure in x/y format. Eg. 4/4.
 
 
-These files were at some point generatd randomly.
+These files were at some point generated randomly.
 Referenced database: https://www.sharda.org/raga-taal/
