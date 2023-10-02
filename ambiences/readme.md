@@ -1,7 +1,9 @@
 # Ambiences
-Randomized ambience sound!
-
-## ambience-01
-One of the random project for ambiences.
+Randomized ambience sounds!
 
 ![graph](resources/ambience-01.png)
+
+Project | Instruments | Download
+--------|-------------|----------
+ambience-01 | ResonantPad | [Download](resources/ambience-01.mmpz)
+ambience-02 | ResonantPad | [Download](resources/ambience-02.mmpz)
