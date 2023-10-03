@@ -1,22 +1,15 @@
 # Ambiences
+
 Randomized ambience sounds!
 
 ![graph](resources/ambience-01.png)
 
 
-## Bhupali (Major Pentatonic)
-
-Project Name | [Tempo](https://en.wikipedia.org/wiki/Tempo) | [TS](https://en.wikipedia.org/wiki/Time_signature)  | HH:MM | Instruments and Presets        | Download                              | Listen
--------------|-------|---- |-------|--------------------------------|---------------------------------------|--------
-ambience-01  | 160   | 4/4 |  4:47 | TripleOscillator / ResonantPad | [Project](resources/ambience-01.mmpz) | [MIDI](resources/ambience-01.mid)
-ambience-02  | 160   | 4/4 |  4:47 | TripleOscillator / ResonantPad | [Project](resources/ambience-02.mmpz) | [MIDI](resources/ambience-02.mid)
-ambience-03  | 160   | 4/4 |  4:47 | TripleOscillator / ResonantPad | [Project](resources/ambience-03.mmpz) | [MIDI](resources/ambience-03.mid)
-ambience-04  | 160   | 4/4 |  4:47 | TripleOscillator / ResonantPad | [Project](resources/ambience-04.mmpz) | [MIDI](resources/ambience-04.mid)
-ambience-05  | 160   | 4/4 |  4:47 | TripleOscillator / ResonantPad | [Project](resources/ambience-05.mmpz) | [MIDI](resources/ambience-05.mid)
-
-
-# todo
-
-Also, inform:
-- Play time length
-- Scale used ([Raag](https://en.wikipedia.org/wiki/Raga) name if known)
+## Based on Bhupali Raag (Major Pentatonic Scales)
+S. N. | Name         | [Tempo](https://en.wikipedia.org/wiki/Tempo) | [TS](https://en.wikipedia.org/wiki/Time_signature)  | HH:MM | Main Instruments and Presets        | Download                              | Listen
+------|--------------|-----|-------|-------|-----------------------------------|-------------------------------------|----------------------------------
+1     | ambience-01  | 160 | 4 / 4 | 04:47 | TripleOscillator &gt; ResonantPad | [.mmpz](resources/ambience-01.mmpz) | [MIDI](resources/ambience-01.mid)
+2     | ambience-02  | 160 | 4 / 4 | 04:47 | TripleOscillator &gt; ResonantPad | [.mmpz](resources/ambience-02.mmpz) | [MIDI](resources/ambience-02.mid)
+3     | ambience-03  | 160 | 4 / 4 | 04:47 | TripleOscillator &gt; ResonantPad | [.mmpz](resources/ambience-03.mmpz) | [MIDI](resources/ambience-03.mid)
+4     | ambience-04  | 160 | 4 / 4 | 04:47 | TripleOscillator &gt; ResonantPad | [.mmpz](resources/ambience-04.mmpz) | [MIDI](resources/ambience-04.mid)
+5     | ambience-05  | 160 | 4 / 4 | 04:47 | TripleOscillator &gt; ResonantPad | [.mmpz](resources/ambience-05.mmpz) | [MIDI](resources/ambience-05.mid)
