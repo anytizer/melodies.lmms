@@ -1,5 +1,5 @@
 # Melody Author
-[JK Bista](https://www.youtube.com/c/JkBista/videos)
+Inspiring author for this project (ie. old melodies notations): [JK Bista](https://www.youtube.com/c/JkBista/videos)
 
 # What is Teej?
 Teej is a post monsoon seasoned women festival, massively celebrated in Nepal.
@@ -15,6 +15,12 @@ Every year, hundreds of such melodies are added to the YouTube like platform.
 And, observed by millions of views around this theme.
 
 # Examples of modernised versions of Teej songs
+
+## B.S 2081 (2024)
+- [Balenko Sahar](https://youtu.be/llhFpzgu6CM)
+- [Balen](https://youtu.be/XCf1dZ9-ocA)
+- [नाैगेडी Collection](https://youtu.be/5cCmSMHoDVg)
+- Kurta Surwal: [Remake of 2079 version](https://youtu.be/kql1B-8wnFY) - नारीको तीज
 
 ## B.S 2080 (2023)
 - [AVAGINI | अभागिनी](https://www.youtube.com/watch?v=RLTCBARnIjA)
