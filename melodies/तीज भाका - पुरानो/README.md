@@ -21,6 +21,7 @@ And, observed by millions of views around this theme.
 - [Balen](https://youtu.be/XCf1dZ9-ocA)
 - [नाैगेडी Collection](https://youtu.be/5cCmSMHoDVg)
 - Kurta Surwal: [Remake of 2079 version](https://youtu.be/kql1B-8wnFY) - नारीको तीज
+- [Mai Luri मै लुरी](https://youtu.be/hv3tBAAgLkk)
 
 ## B.S 2080 (2023)
 - [AVAGINI | अभागिनी](https://www.youtube.com/watch?v=RLTCBARnIjA)
