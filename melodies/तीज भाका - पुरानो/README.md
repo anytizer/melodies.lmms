@@ -23,6 +23,7 @@ And, observed by millions of views around this theme.
 - Kurta Surwal: [Remake of 2079 version](https://youtu.be/kql1B-8wnFY) - नारीको तीज
 - [Mai Luri मै लुरी](https://youtu.be/hv3tBAAgLkk)
 - [Machhee](https://youtu.be/wZnnjViHnjk)
+- [Madalu Ghankaudai - Ranana Rankaudai](https://youtu.be/6ByvmJ9X_a4)
 
 ## B.S 2080 (2023)
 - [AVAGINI | अभागिनी](https://www.youtube.com/watch?v=RLTCBARnIjA)
