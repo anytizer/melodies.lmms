@@ -17,6 +17,7 @@ And, observed by millions of views around this theme.
 # Examples of modernised versions of Teej songs
 
 ## B.S 2081 (2024)
+- [यात्रा अमेरिकाको](https://youtu.be/axLYLKn3_TI) - खाट्टी तीज
 - [Balenko Sahar](https://youtu.be/llhFpzgu6CM)
 - [Balen](https://youtu.be/XCf1dZ9-ocA)
 - [नाैगेडी Collection](https://youtu.be/5cCmSMHoDVg)
